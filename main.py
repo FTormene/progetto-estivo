@@ -1,2 +1,2 @@
 print("ciao")
-print("altra stampa")
+print("stampa di prova")
